@@ -1,0 +1,32 @@
+.numbers{
+    color: rgb(14, 13, 13);
+    padding: 20px;
+    margin: 2px;
+    border: solid 1px;
+    font-size: 15px;
+    width: 70px;
+    border-radius: 4px;
+    background-color: white;
+    height: 60px;
+}
+.display{
+    padding: 15px;
+    width: 265px;
+    border: solid 2px;
+    margin: 5px;
+}
+.border{
+    border: solid ;
+    width: 310px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(236, 234, 234, 0.541);
+    border-radius: 8px;
+}
+.numbers:hover{
+    background-color: rgb(166, 166, 177);
+
+}
+.minus{
+    font-size: 18px;
+}
